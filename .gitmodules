@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "blackbox"]
 	path = blackbox
 	url = https://github.com/cran/blackbox
-	shallow = true
-	registered = true
 [submodule "genepop"]
 	path = genepop
 	url = https://github.com/cran/genepop
-	shallow = true
-	registered = true
 [submodule "Infusion"]
 	path = Infusion
 	url = https://github.com/cran/Infusion
-	shallow = true
-	registered = true
 [submodule "spaMM"]
 	path = spaMM
 	url = https://github.com/cran/spaMM
-	shallow = true
-	registered = true
