@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Infusion"]
+	path = Infusion
+	url = https://github.com/cran/Infusion
 [submodule "blackbox"]
 	path = blackbox
 	url = https://github.com/cran/blackbox
 [submodule "genepop"]
 	path = genepop
 	url = https://github.com/cran/genepop
-[submodule "Infusion"]
-	path = Infusion
-	url = https://github.com/cran/Infusion
 [submodule "spaMM"]
 	path = spaMM
 	url = https://github.com/cran/spaMM
