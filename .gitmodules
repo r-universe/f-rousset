@@ -11,6 +11,9 @@
 [submodule "genepop"]
 	path = genepop
 	url = https://github.com/cran/genepop
+[submodule "mafR"]
+	path = mafR
+	url = https://github.com/cran/mafR
 [submodule "spaMM"]
 	path = spaMM
 	url = https://github.com/cran/spaMM
